@@ -1,14 +1,9 @@
-# vue-quiz
+# Pokemon Quiz
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple quiz application made using vue
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Try it out here:
+https://denz1423.github.io/Vue-pokemon-quiz/
 
 ## Project Setup
 
@@ -20,10 +15,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
